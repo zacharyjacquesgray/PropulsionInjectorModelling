@@ -15,8 +15,11 @@ MATLAB REQUIREMENTS:
 > MATLAB Image Processing Toolbox.
 > MATLAB Signal Processing Toolbox.
 
+VISUAL EXAMPLE OF WHAT THE CODE IS PERFORMING:
+[Flowchart of Oscillation Analysis.pdf](https://github.com/zacharyjacquesgray/PropulsionInjectorModelling/files/10977536/Flowchart.of.Oscillation.Analysis.pdf)
+This is what is occurring for 6400 images across 2 seconds from a high speed camera at 3200fps where each image is 2 MB.
+
 SAMPLE RESULTS:
 ![SH2WelchWave3D](https://user-images.githubusercontent.com/127930775/225250958-6da7f831-deb3-4d19-bcc7-06ed03c44131.jpg)
 ![SH2WelchWaveContour](https://user-images.githubusercontent.com/127930775/225250981-49609581-3205-4e92-8e6e-e50fede37340.jpg)
 ![VOR2_freq](https://user-images.githubusercontent.com/127930775/225251050-74e26184-bf0b-45e9-bb58-61a159b960ae.jpg)
-[Flowchart of Oscillation Analysis.pdf](https://github.com/zacharyjacquesgray/PropulsionInjectorModelling/files/10977536/Flowchart.of.Oscillation.Analysis.pdf)
