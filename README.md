@@ -13,4 +13,4 @@ DESCRIPTION:
 
 MATLAB REQUIREMENTS: 
 > MATLAB Image Processing Toolbox.
-> > MATLAB Signal Processing Toolbox.
+> MATLAB Signal Processing Toolbox.
