@@ -12,5 +12,5 @@ DESCRIPTION:
 > Analyzes for injector flow qualities, e.g. atomisation and oscillations.
 
 MATLAB REQUIREMENTS: 
-> MATLAB Image Processing Toolbox
-> MATLAB Signal Processing Toolbox
+> MATLAB Image Processing Toolbox.
+> > MATLAB Signal Processing Toolbox.
